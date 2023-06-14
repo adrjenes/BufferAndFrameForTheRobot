@@ -1,0 +1,16 @@
+../Core/Src/main.c:53:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:64:6:HAL_UART_TxCpltCallback	24	static
+../Core/Src/main.c:77:6:USART_Send	136	static,ignoring_inline_asm
+../Core/Src/main.c:109:6:infoFrame	8	static
+../Core/Src/main.c:114:6:badCommand	128	static
+../Core/Src/main.c:120:6:badFrame	128	static
+../Core/Src/main.c:125:6:badChecksum	128	static
+../Core/Src/main.c:130:9:checkCommandFrame	16	static
+../Core/Src/main.c:141:6:commandsReaction	8	static
+../Core/Src/main.c:150:6:broadcastingFrame	128	static
+../Core/Src/main.c:157:6:tooLongFrame	128	static
+../Core/Src/main.c:162:6:tooShortFrame	128	static
+../Core/Src/main.c:167:6:notEndFrame	128	static
+../Core/Src/main.c:177:5:main	24	static
+../Core/Src/main.c:289:6:SystemClock_Config	88	static
+../Core/Src/main.c:328:6:Error_Handler	4	static,ignoring_inline_asm
